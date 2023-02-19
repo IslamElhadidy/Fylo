@@ -1089,11 +1089,11 @@ video {
 }
 
 .bg-logo-light-mode {
-  background-image: url('/images/logo-light-mode.svg');
+  background-image: url('images/logo-light-mode.svg');
 }
 
 .bg-curvy-light-mode {
-  background-image: url('/images/bg-curvy-light-mode.svg');
+  background-image: url('images/bg-curvy-light-mode.svg');
 }
 
 .bg-contain {
@@ -1556,11 +1556,11 @@ video {
 }
 
 .dark .dark\:bg-logo-dark-mode {
-  background-image: url('/images/logo-dark-mode.svg');
+  background-image: url('images/logo-dark-mode.svg');
 }
 
 .dark .dark\:bg-curvy-dark-mode {
-  background-image: url('/images/bg-curvy-dark-mode.svg');
+  background-image: url('images/bg-curvy-dark-mode.svg');
 }
 
 .dark .dark\:font-normal {
